@@ -77,7 +77,3 @@
     </tr>
   </tbody>
 </table>
-
-## 𝗩𝗶𝘀𝗶tors
-
-![visitors](https://visitor-badge.glitch.me/badge?page_id=nickolasdias.nickolasdias)
