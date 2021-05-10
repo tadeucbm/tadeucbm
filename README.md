@@ -11,6 +11,8 @@ Hello, my name is Tadeu Madureira, I am a student of economics at UFMT and a Dat
 
 ### [Prediction of Cardiovascular Diseases](https://github.com/tadeucbm/cardio_catch_diseases)
 
+### [Drug Discovery](https://github.com/tadeucbm/imersao-dados-desafio-final)
+
 <br>
 
 ## My Skills
