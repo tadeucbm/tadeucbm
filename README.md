@@ -1,6 +1,6 @@
 # Hi, I'm Tadeu Madureira
 
-Hello, my name is Tadeu Madureira, I am a student of economics at UFMT and a Data Scientist under construction. I am a young man who likes to venture into new technologies, and so I got to know the world of Data Science, i love to learn, so I am always in a continuous process of developing my skills. I am able to combine statistical and analytical techniques for problem solving, I know how to work with Machine Learning models and I'm able to generate insights that can help you.
+Hello, my name is Tadeu Madureira. I'm a student of economics at UFMT and a Data Scientist under construction. I am a young man who likes to venture into new technologies, and so i got to know the world of Data Science. I love to learn, so i'm always in a continuous process of developing my skills. I'm able to combine statistical and analytical techniques for problem solving.
 
 
 ---
