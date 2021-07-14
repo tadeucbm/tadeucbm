@@ -13,6 +13,8 @@ Hello, my name is Tadeu Madureira, I am a student of economics at UFMT and a Dat
 
 ### [Drug Discovery](https://github.com/tadeucbm/imersao-dados-desafio-final)
 
+### [Churn Predict](https://github.com/tadeucbm/churn_predict)
+
 <br/><br/>
 <p align="center">
     <a href="https://www.linkedin.com/in/tadeumadureira/" target="_blank"><img alt="GitHub" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
