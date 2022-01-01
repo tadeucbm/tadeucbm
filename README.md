@@ -1,4 +1,4 @@
-![Breakthroughs in food technology](https://user-images.githubusercontent.com/73614098/147841763-778d1fb2-86c0-4904-ab48-80aeca788617.png)
+![Design sem nome(1)](https://user-images.githubusercontent.com/73614098/147841864-525031ae-2aad-477f-b7c7-c8481b8a8930.gif)
 
 ---
 
