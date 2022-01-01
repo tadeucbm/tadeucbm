@@ -1,7 +1,4 @@
-# Hi, I'm Tadeu Madureira
-
-Hello, my name is Tadeu Madureira. I'm a student of economics at UFMT and a Data Scientist under construction. I am a young man who likes to venture into new technologies, and so i got to know the world of Data Science. I love to learn, so i'm always in a continuous process of developing my skills. I'm able to combine statistical and analytical techniques for problem solving.
-
+![Breakthroughs in food technology](https://user-images.githubusercontent.com/73614098/147841763-778d1fb2-86c0-4904-ab48-80aeca788617.png)
 
 ---
 
